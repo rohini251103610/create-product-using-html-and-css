@@ -1,0 +1,46 @@
+.frame{
+    border: 2px solid pink;
+    height:410px;
+    width: 300px;
+    margin:20px
+}
+.frame2{
+    border: 2px solid pink;
+    height:410px;
+    width:300px;
+    margin:20px;
+}
+.frame3{
+    border: 2px solid pink;
+    height:410px;
+    width:300px;
+    margin:20px;
+}
+.frame4{
+    border: 2px solid pink;
+    height:410px;
+    width:300px;
+    margin:20px;
+}
+img{
+    height: 280px;
+    width: 100%;
+}
+h4{
+    text-align: center;
+    color: rgb(15, 16, 16);
+    z-index: 1;   
+}
+button{
+    
+    float: right;
+}
+p{
+    text-align: center;
+    color: rgb(31, 35, 35);
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
